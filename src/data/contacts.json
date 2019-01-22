@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Github",
+    "icon": "github",
+    "type": "social-media",
+    "url": "https://github.com/shadowdevcode"
+  },
+  {
+    "name": "Twitter",
+    "icon": "twitter",
+    "type": "social-media",
+    "url": "https://twitter.com/vijaysehgal4u"
+  },
+  {
+    "name": "Medium",
+    "icon": "medium",
+    "type": "social-media",
+    "url": "https://medium.com/@vijay.b.sehgal"
+  },
+  {
+    "name": "Instagram",
+    "icon": "instagram",
+    "type": "social-media",
+    "url": "https://www.instagram.com/vijay.b.sehgal"
+  },
+  {
+    "name": "Instagram",
+    "icon": "linkedin",
+    "type": "social-media",
+    "url": "https://www.linkedin.com/in/vijay-b-sehgal"
+  },
+  {
+    "name": "Email",
+    "icon": "envelope",
+    "type": "email",
+    "url": "mailto:vijay.b.sehgal@gmail.com"
+  }
+]

@@ -1,0 +1,48 @@
+{
+  "name": "my-personal-portfolio-master",
+  "version": "1.0.0",
+  "description": "A showcase of my projects",
+  "license": "MIT",
+  "scripts": {
+    "develop": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "#"
+  },
+  "author": "Vijay Sehgal",
+  "homepage": "#",
+  "main": "gatsby-config.js",
+  "keywords": [],
+  "devDependencies": {
+    "ajv": "^6.7.0",
+    "babel-preset-env": "^1.7.0",
+    "bootstrap": "^4.2.1",
+    "browserslist": "^4.4.1",
+    "classnames": "^2.2.6",
+    "font-awesome": "^4.7.0",
+    "gatsby": "^1.9.279",
+    "gatsby-image": "^1.0.55",
+    "gatsby-link": "^1.6.46",
+    "gatsby-plugin-google-analytics": "^1.0.31",
+    "gatsby-plugin-manifest": "^1.0.27",
+    "gatsby-plugin-react-helmet": "^2.0.11",
+    "gatsby-plugin-sharp": "^1.6.48",
+    "gatsby-plugin-sitemap": "^1.2.25",
+    "gatsby-source-filesystem": "^1.5.39",
+    "gatsby-transformer-sharp": "^1.6.27",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.14.6",
+    "react": "^16.7.0",
+    "react-bootstrap": "^0.32.4",
+    "react-dom": "^16.7.0",
+    "react-helmet": "^5.2.0",
+    "react-scrollchor": "^5.1.0",
+    "react-scrollspy": "^3.3.5",
+    "reactstrap": "^6.5.0",
+    "unist-util-select": "^1.5.0",
+    "webpack": "^1.15.0"
+  }
+}
