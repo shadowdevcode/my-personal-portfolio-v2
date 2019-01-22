@@ -92,6 +92,16 @@ class Navigation extends Component {
                 CONTACT
               </ScrollchorItem>
             </NavItem>
+            <NavItem onClick={this.handleCloseCollapse}>
+              <NavLink
+                href="https://drive.google.com/open?id=1vZRHW3LmaGZ1LT20cW_pV12QEhYXfbXq"
+                target="_blank"
+                className="external-link"
+                rel="noopener noreferrer"
+              >
+                RESUME
+              </NavLink>
+            </NavItem>
           </Scrollspy>
         </Collapse>
       </Navbar>
