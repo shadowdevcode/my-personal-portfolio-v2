@@ -50,7 +50,7 @@ export const query = graphql`
     }
 
     profileImg: imageSharp(id: { regex: "/Vijay/" }) {
-      sizes(maxWidth: 420, maxHeight: 630) {
+      sizes(maxWidth: 600, maxHeight: 600) {
         ...GatsbyImageSharpSizes
       }
     }
