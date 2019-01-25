@@ -16,6 +16,8 @@ class Projects extends Component {
       <section id="projects" className="section projects">
         <h2 className="text-center">PROJECTS</h2>
         <div className="section-content">
+          <div className="subheader">
+          </div>
           <div className="project-list">
             {projectList.map(project => {
               const singleCardClass = classNames("single-card", {

@@ -9,18 +9,24 @@
     "name": "Weather Application",
     "description": "This is the weather application built in django which uses openweathermap API for providing weather based on the parameters you need like temperature, city logo, city name, etc.",
     "img": "dummy.png",
-    "url": "https://github.com/shadowdevcode/Weather-App-in-Django"
+    "url": "https://vijaybsehgal.pythonanywhere.com/"
   },
   {
     "name": "WhatsApp Automation",
     "description": "Python script to automate sending messages using python from terminal/bash. It is used with selenium library and chrome driver.",
     "img": "dummy.png",
-    "url": "https://github.com/shadowdevcode/LetsAutomateWhatsApp"
+    "url": "https://shadowdevcode.github.io/whatsapp-script/"
   },
   {
     "name": "Car Game",
     "description": "Car Game is desktop application made using python.(Pygame, Tkinter).",
     "img": "dummy.png",
-    "url": "https://github.com/shadowdevcode/CarGame"
+    "url": "https://shadowdevcode.github.io/CarGame/"
+  },
+  {
+    "name": "BookStore",
+    "description": "BookStore Application where you can see the list of books, their authors, cost, type & read sample.",
+    "img": "dummy.png",
+    "url": "https://vijaybookweb.herokuapp.com/books"
   }
 ]
