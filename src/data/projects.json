@@ -1,5 +1,11 @@
 [
   {
+    "name": "Blog-App",
+    "description": "Blog Application is Django based. Allows Registration, Login, Generic Class Based CRUD, Change Profile, Pagination etc.",
+    "img": "dummy.png",
+    "url": "https://my-blogapp.herokuapp.com/"
+  },
+  {
     "name": "Viberr",
     "description": "Viberr is an music application based on Django that let's you upload, store, and play all of your music from the cloud. You can now manage and listen to your music from any device, anywhere in the world.",
     "img": "dummy.png",
