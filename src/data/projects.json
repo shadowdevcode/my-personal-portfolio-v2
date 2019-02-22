@@ -27,7 +27,7 @@
     "name": "Car Game",
     "description": "Car Game is desktop application made using python.(Pygame, Tkinter).",
     "img": "dummy.png",
-    "url": "https://shadowdevcode.github.io/CarGame/"
+    "url": "https://shadowdevcode.github.io/car-game/"
   },
   {
     "name": "BookStore",
