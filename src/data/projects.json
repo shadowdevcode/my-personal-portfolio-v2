@@ -33,6 +33,6 @@
     "name": "BookStore",
     "description": "BookStore Application where you can see the list of books, their authors, cost, type & read sample.",
     "img": "dummy.png",
-    "url": "https://vijaybookweb.herokuapp.com/books"
+    "url": "https://vijaybookweb.herokuapp.com/"
   }
 ]
