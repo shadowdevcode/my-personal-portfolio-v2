@@ -4,7 +4,7 @@ Hi! This is the source code for my [portfolio website](https://vijaysehgal.com),
 
 ## Usage:
 1. Install nodejs from [here](https://nodejs.org/en/download/)
-2. Check whether installed or not using : 
+2. Check whether installed or not using :
 `node --version` &
 `npm --version`
 3. Create a production build using `gatsby build`
@@ -25,4 +25,4 @@ Hi! This is the source code for my [portfolio website](https://vijaysehgal.com),
 
 ## Feel free to ask questions if any
 
-### Feel free to fork it. 
+### Feel free to fork it.
