@@ -15,7 +15,7 @@
     "name": "Weather Application",
     "description": "This is the weather application built in django which uses openweathermap API for providing weather based on the parameters you need like temperature, city logo, city name, etc.",
     "img": "dummy.png",
-    "url": "https://vijaybsehgal.pythonanywhere.com/"
+    "url": "https://shadowdevcode.github.io/weather-webapp/"
   },
   {
     "name": "WhatsApp Automation",
