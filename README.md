@@ -7,8 +7,9 @@ Hi! This is the source code for my [portfolio website](https://vijaysehgal.com),
 2. Check whether installed or not using :
 `node --version` &
 `npm --version`
-3. Create a production build using `gatsby build`
-4. Create a production site locally using `gatsby serve`
+3. Start Development Server using `gatsby develop`
+4. Make Project ready for deployment using `gatsby build`
+5. Create a production site locally for testing if required using `gatsby serve`
 
 ## Technologies Used
 
