@@ -94,7 +94,7 @@ class Navigation extends Component {
             </NavItem>
             <NavItem onClick={this.handleCloseCollapse}>
               <NavLink
-                href="https://drive.google.com/open?id=1vZRHW3LmaGZ1LT20cW_pV12QEhYXfbXq"
+                href="https://drive.google.com/file/d/1zxtRvENX8VWA4uOJ_Sn0SHgG2hoLemWr/view?usp=sharing"
                 target="_blank"
                 className="external-link"
                 rel="noopener noreferrer"
