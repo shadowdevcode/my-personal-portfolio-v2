@@ -3,7 +3,7 @@ import "./footer.css";
 
 const Footer = () => (
   <footer>
-    &copy; 2019 by Vijay Sehgal{' '}
+    &copy; 2021 by Vijay Sehgal{' '}
   </footer>
 );
 
